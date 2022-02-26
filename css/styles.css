@@ -11535,3 +11535,8 @@ p {
 	color: white;
 	filter: drop-shadow(2px 2px 1px #ffffff73);
 }
+
+.instagram-embed {
+  max-width:540px;
+  margin:auto
+}
